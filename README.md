@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
-- 🔭 I maybe working on **a new project**
+- 🔭 I maybe working on **a new project or Listening songs**
 
 - 👯 I’m looking for an opportunity as **software developer**
 
-- 📫 How to reach me: **arpit2001.ad@gmail.com**
+- 📫 Reach me at: **arpit2001.ad@gmail.com**
 
-- ⚡ What I like to do: **I like so much exploring new things, listening to music and playing games**
+- ⚡ What I like to do: **I like exploring new things, listening to music and playing games**
 
 - ⚡ Fun fact **My code tells me : Copy-and-Paste was programmed by programmers for programmers actually.**
 
