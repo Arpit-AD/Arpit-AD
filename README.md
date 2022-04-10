@@ -20,7 +20,7 @@
 
 - ⚡ What I like to do: **I like so much exploring new things, listening to music and playing games**
 
-- ⚡ Fun fact **My code tells me : Copy-and-Paste was programmed by programmers for programmers actually.**<img src="https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif" width="34">
+- ⚡ Fun fact **My code tells me : Copy-and-Paste was programmed by programmers for programmers actually.**
 
 - 📝 Please have a look at my **[Resume](https://drive.google.com/file/d/1bp2r4Ct6jE7MgOT_dw5jB5anklBLiggd/view?usp=sharing) for more details about me.**
 
@@ -83,7 +83,7 @@
 <div align="center">
 
 ## Show some ❤️ by starring ⭐ some of the repositories!
--------------------------------------------------------------------------------------------------------------------------
+  
 <!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://prionto-71.web.app/) -->
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=arpit2001.ad@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/arpit-das-9210a01a5/)
