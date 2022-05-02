@@ -16,7 +16,7 @@
 
 - 👯 I’m looking for an opportunity as **software developer**
 
-- 📫 Reach me at: **[Resume](https://arpit-ad.github.io/)**
+- 📫 Reach me at: **[Portfolio](https://arpit-ad.github.io/)**
 
 - ⚡ What I like to do: **I like exploring new things, listening to music and playing games**
 
