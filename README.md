@@ -10,7 +10,7 @@
 <img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif"  />
 </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
+- 🌱 I’m currently learning **Competitive Programming**
 
 - 🔭 I maybe working on **a new project or Listening songs**
 
