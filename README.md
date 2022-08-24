@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **My code tells me : Copy-and-Paste was programmed by programmers for programmers actually.**
 
-- 📝 Please have a look at my **[Resume](https://bit.ly/arpitResume) for more details about me.**
+- 📝 Please have a look at my **[Resume](https://bit.ly/ad-aug) for more details about me.**
 
 
 
