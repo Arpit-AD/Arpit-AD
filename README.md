@@ -22,8 +22,6 @@
 
 - ⚡ Fun fact **My code tells me : Copy-and-Paste was programmed by programmers for programmers actually.**
 
-- 📝 Please have a look at my **[Resume](https://bit.ly/july-ad-23) for more details about me.**
-
 
 
 
